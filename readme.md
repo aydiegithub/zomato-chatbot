@@ -21,11 +21,11 @@ A portfolio project demonstrating a Zomato-style chatbot built with ChainLit and
 
 ```
 ├── app.py              # ChainLit frontend integration
-├── llm.py              # Groq API call logic and message handling
 ├── src
+    └── llm.py          # Groq API call logic and message handling
 │   └── prompt.py       # system_instruction definition
 ├── requirements.txt    # Python dependencies
-└── chainlit.md         # Chat UI customization markdown
+└── chainlit.md         # Chat UI customisation markdown
 ```
 
 ## Getting Started
@@ -71,10 +71,12 @@ Follow these steps to run the chatbot locally:
 
 ## Socials & Links
 
-- Portfolio: [Aydie’s Avenue](https://aydie.in)
-- LinkedIn: [Aydie Music](https://www.linkedin.com)
-- YouTube: [AydieMusic](https://www.youtube.com)
+- Website: [Aydie’s Avenue](https://aydie.in)
+- LinkedIn: [Aydie Music](https://www.linkedin.com/in/aydiemusic)
+- Instagram: [Aydie Music](https://www.instagram.com/aydiemusic)
+- YouTube: [AydieMusic](https://www.youtube.com/AydieMusic)
 - GitHub: [aydiegithub](https://github.com/aydiegithub)
+- GitLab: [aydie](https://gitlab.com/aydie)
 - LeetCode: [aydie](https://leetcode.com/aydie)
 - HackerRank: [aydie](https://www.hackerrank.com/aydie)
 
