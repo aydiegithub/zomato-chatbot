@@ -21,7 +21,7 @@ messages = [
 def ask_order(user_message):
     messages.append({"role": "user", "content": user_message})
 
-    # ✅ Limit to last 4 interactions to prevent token overflow
+    # Limit to last 4 interactions to prevent token overflow
     trimmed_messages = [messages[0]] + messages[-6:]  # keep system + last 3 Q&A
 
     payload = {
