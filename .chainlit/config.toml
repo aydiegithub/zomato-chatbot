@@ -1,4 +1,4 @@
-[project]
+[Zomato-Bot]
 # Whether to enable telemetry (default: false). No personal data is collected.
 enable_telemetry = false
 

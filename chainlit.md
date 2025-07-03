@@ -1,8 +1,4 @@
-# Welcome to Zomato-Bot! 🚀🤖
-
-
-
-# 🍽️ Zomato Restaurant Menu
+# Zomato Bot
 
 Welcome to our Zomato-style restaurant! Explore a wide range of delicious dishes across 25 categories, each filled with handpicked, flavorful items made just for you.
 
