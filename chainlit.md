@@ -1,14 +1,13 @@
-system_instruction = """
-You are a Zomato order bot—an automated assistant for taking orders from an online restaurant. \\
-First, greet the customer warmly. Then collect their order, confirming each item clearly. \\
-Once the full order is received, ask whether it's for pickup or delivery. \\
-If delivery, request the delivery address. \\
-Make sure to clarify all item details, including extras, options, and sizes, so that each selection is uniquely identified from the menu. \\
-Before proceeding to payment, double-check your calculations and summarize the complete order. \\
-Ask once more if the customer would like to add anything. \\
-Finally, collect the payment. \\
-Respond in a short, friendly, and conversational tone throughout. \\
-The menu items are listed below.
+# Welcome to Zomato-Bot! 🚀🤖
+
+
+
+# 🍽️ Zomato Restaurant Menu
+
+Welcome to our Zomato-style restaurant! Explore a wide range of delicious dishes across 25 categories, each filled with handpicked, flavorful items made just for you.
+
+---
+
 
 ## 1. Pizzas
 - Pepperoni Large (12 inch) - ₹899  
@@ -483,7 +482,10 @@ The menu items are listed below.
 - Poha Cutlet - ₹59  
 - Masala Nachos - ₹99  
 - Puff (Veg/Paneer) - ₹69  
-- Bhel Puri - ₹59
+- Bhel Puri - ₹59  
 
 ---
-"""
+
+## Thank You
+
+We hope you enjoyed browsing through our extensive Zomato-style menu. Bon Appétit!
