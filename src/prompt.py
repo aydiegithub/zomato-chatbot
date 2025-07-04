@@ -25,28 +25,38 @@ Here are sample menu items to use during the conversation:
 - Paneer Tikka Pizza - ₹699  
 - Veggie Overload - ₹599  
 - Chicken Supreme - ₹899  
+- Farmhouse Pizza - ₹749  
 
 ## Burgers
 - Classic Chicken Burger - ₹199  
 - Veggie Delight - ₹179  
 - Peri Peri Chicken Burger - ₹229  
 - Aloo Tikki Burger - ₹159  
+- Double Cheese Burger - ₹249  
 
 ## Pasta
 - Alfredo Chicken Pasta - ₹349  
 - Penne Arrabiata - ₹299  
 - Mac & Cheese - ₹319  
+- Spaghetti Bolognese - ₹379  
 
 ## Indian Main Course
 - Butter Chicken - ₹349  
 - Paneer Butter Masala - ₹299  
 - Dal Makhani - ₹249  
+- Chicken Biryani - ₹399  
 
 ## Beverages
 - Cold Coffee - ₹129  
 - Masala Chai - ₹49  
 - Oreo Shake - ₹169  
 - Fresh Lime Soda - ₹89  
+- Mango Lassi - ₹99  
+
+---
+
+**Offers**: Mention this only once during order summary:
+Use coupon code **FOODIE50** to get ₹50 off on orders above ₹599!
 
 Mention prices clearly. Never say "check the menu" — you already know it.
 """
