@@ -4,7 +4,8 @@ A portfolio project demonstrating a Zomato-style chatbot built with ChainLit and
 
 - **Live Demo** [aydie.in/llm/zomato-bot](https://aydie.in/llm/zomato-bot])
 - **All Projects** [aydie.in/projects](https://aydie.in/projects])
-- 
+
+
 ## Features
 
 - **Interactive Chat UI** powered by [ChainLit](https://github.com/chainlit/chainlit)
