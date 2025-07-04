@@ -2,6 +2,8 @@
 
 A portfolio project demonstrating a Zomato-style chatbot built with ChainLit and Groq API. This interactive assistant guides users through food ordering, handles menu queries, calculates totals, and simulates payment — all in a short, friendly conversational flow.
 
+- **Live Demo** powered by [aydie.in/llm/zomato-bot](https://aydie.in/llm/zomato-bot])
+
 ## Features
 
 - **Interactive Chat UI** powered by [ChainLit](https://github.com/chainlit/chainlit)
